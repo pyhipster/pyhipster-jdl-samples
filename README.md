@@ -1,0 +1,1 @@
+# pyhipster-jdl-samples
