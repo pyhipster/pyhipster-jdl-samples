@@ -28,7 +28,7 @@ entity Owners {
 
 entity Pets {
   name String required maxlength(DEFAULT_MAX_LENGTH)
-  birthdate Date required
+  birthdate LocalDate required
 }
 
 entity Visits {
